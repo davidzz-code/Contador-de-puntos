@@ -1,6 +1,6 @@
 # Contador de puntos
 
-Proyecto de Scrimba del curso 'Learn JavaScript'
+Proyecto de Scrimba del curso 'Learn JavaScript'.  
 La aplicación permite llevar un registro de puntuaciones para dos equipos y permite añadir puntos a cada equipo de manera individual.
 
 Puedes probar la web en [este link](https://contador-puntos.netlify.app/)
