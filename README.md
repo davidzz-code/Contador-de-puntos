@@ -1,8 +1,20 @@
-#Contador de puntos
+# Contador de puntos
 
-Proyecto web desarrollado con HTML, CSS y JavaScript, diseñado para practicar el uso de JavaScript. La aplicación permite llevar un registro de puntuaciones para dos equipos y permite añadir puntos a cada equipo de manera individual.
+Proyecto de Scrimba del curso 'Learn JavaScript'.  
+La aplicación permite llevar un registro de puntuaciones para dos equipos y permite añadir puntos a cada equipo de manera individual.
 
 Puedes probar la web en [este link](https://contador-puntos.netlify.app/)
+
+## Imágenes de ejemplo
+
+
+![Imagen ejemplo menú contador](img/contador-ejemplo-1.png)
+
+
+
+
+
+![Imagen ejemplo menú contador con números](img/contador-ejemplo-2.png)
 
 
 ## Contribución
@@ -20,4 +32,3 @@ Si deseas contribuir a este proyecto, no dudes en ayudarme a aprender y mejorar.
 5\. Haz push a la rama correspondiente en tu repositorio: `git push origin mi-nueva-caracteristica`.
 
 6\. Abre un pull request en este repositorio y describe los cambios que has realizado.
-
