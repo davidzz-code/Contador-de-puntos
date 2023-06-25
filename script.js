@@ -57,8 +57,8 @@ extraFunctions.addEventListener('click', (e) => {
         const titleHome = document.querySelector('.title-home');
         const titleGuest = document.querySelector('.title-guest');
 
-        const hostName = prompt('Write the host name: ');
-        const guestName = prompt('Write the guest name: ');
+        const hostName = prompt('Write the host name: ').toUpperCase;
+        const guestName = prompt('Write the guest name: ').toUpperCase;
 
         titleHome.innerHTML = `<h3>${hostName}</h3>`
         titleGuest.innerHTML = `<h3>${guestName}</h3>`
