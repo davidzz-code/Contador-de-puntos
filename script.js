@@ -1,5 +1,6 @@
 const pointsHome = document.querySelector('.points-home');
 const pointsGuest = document.querySelector('.points-guest');
+const reset = document.querySelector('.reset');
 
 const home = document.querySelector('.score-home');
 const guest = document.querySelector('.score-guest');
@@ -35,27 +36,10 @@ pointsGuest.addEventListener('click', (e) => {
     guest.innerText = guestScore;
 });
 
+reset.addEventListener('click', () => {
+    homeScore = 0;
+    guestScore = 0;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    home.innerText = homeScore
+    guest.innerText = guestScore
+});
